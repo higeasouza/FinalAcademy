@@ -37,7 +37,7 @@ Este projeto foi desenvolvido principalmente em Java, utilizando para fazer os t
 
 ## 🎨 Autores 
 - [Bruna Roberta Andrade dos Anjos](https://github.com/brunardosanjos)
-- [Higea Celly Souza Barbosa](https://github.com/higeasouza)
+-[![Linkedin Badge](https://img.shields.io/badge/-Higea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higeasouza/)](https://www.linkedin.com/in/higeasouza/) [Higea Celly Souza Barbosa](https://github.com/higeasouza)
 - [![Linkedin Badge](https://img.shields.io/badge/-Luiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karine-santos-8023b6127/)](https://www.linkedin.com/in/araujoluiz/)[Luiz ALberto Suares Araujo](https://github.com/luialbeto) 
 - [![Linkedin Badge](https://img.shields.io/badge/-Karine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karine-santos-8023b6127/)](https://www.linkedin.com/in/karine-santos-8023b6127/) [Karine Carolina dos Santos](https://github.com/Karinecasant)  
 - [Mauricio Nazario do Carmo](https://github.com/Mauricio-Nazario)
